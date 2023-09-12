@@ -1,0 +1,44 @@
+.read{
+    font-size: 70px;
+    margin-top: 60px;
+    
+}
+.get{
+    font-size: 20px;
+  margin-left: 69px;
+  margin-top: 10px;
+}
+
+#fix-g{
+    margin-left: 755px;
+  margin-top: -487px;
+  height: 625px;
+  border-radius: 10px;
+}
+#fix-2{
+    margin-left: 707px;
+    margin-top: -235px;
+}
+#sp-1{
+    margin-left: -606px;
+}
+#world{
+  font-size: 33px;
+  margin-left: 609px;
+  margin-top: -27px;
+  margin-bottom: 10px;
+}
+.set-h1{
+  margin-left: 605px;
+  margin-right: 45px;
+}
+#sp-2{
+  margin-top: 109px;
+  margin-left: 170px;
+}
+.em{
+  font-size: 33px;
+  margin-left: 609px;
+  margin-top: -36px;
+  margin-bottom: 10px;
+}

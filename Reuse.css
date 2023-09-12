@@ -1,0 +1,100 @@
+.head{
+    margin: 60px 0px 0px 92px;
+}
+#header{
+    width :100%;
+    color: white;
+    display: flex;
+    /* background-color: blue; */
+    
+}
+.header-item{
+    display: flex;
+    /* margin: 50px 21px 4px 50px; */
+    padding-top: 70px;
+  margin-left: 150px;
+}
+#custom{
+    color: white;
+}
+.submenu{
+    color: white;
+    margin-top: 10px;
+position: absolute;
+width: 237px;
+/* background: green;  */
+opacity: 0;
+}
+.service-list{
+    margin-top: 7px;
+    font-size: 19px;
+   text-transform: uppercase;
+    /* margin-top: 10px;    */
+   }
+ .service-list:hover{
+    color: blueviolet;
+} 
+.servic-list:hover .submenu{
+    opacity: 1;
+}
+.submenu li{
+    list-style: none;
+    margin-top: 10px;
+    /* position: absolute; */
+    width: 237px;
+    color: white;
+    padding: 10px;
+    /* background-color: aqua; */
+ 
+}
+
+
+#home{
+    padding: 10px 50px;
+    text-decoration: none;
+    color: white;
+
+}
+#home:hover{
+    color:rgb(80, 25, 161);
+    transition: all ease-in-out 0.3;
+   
+}
+#about{
+    padding: 10px 50px;
+    text-decoration: none;
+    color: white;
+
+}
+#about:hover{
+    color:rgb(80, 25, 161);
+    transition: all 0.2s ease-in-out ;
+}
+#service{
+    padding: 10px 50px;
+    text-decoration: none;
+    color: white;
+}
+#service:hover{
+    color:rgb(80, 25, 161);
+    transition: all 0.2s ease-in-out ;
+}
+#career{
+    padding: 10px 50px;
+    text-decoration: none;
+    color: white;
+
+}
+#career:hover{
+    color:rgb(80, 25, 161);
+    transition: all 0.2s ease-in-out ;
+}
+#blogs{
+    padding: 10px 50px;
+    text-decoration: none;
+    color:white;
+}
+#blogs:hover{
+    color:rgb(80, 25, 161);
+    transition: all 0.2s ease-in-out ;
+}
